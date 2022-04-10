@@ -7,5 +7,4 @@ $link = mysqli_connect(
   'root',
   'minculturas_db'
 ) or die(mysqli_erro($mysqli));
-
 ?>
